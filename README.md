@@ -50,10 +50,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adam79689&theme=tokyonight&hide_border=true" alt="adam79689" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adam79689&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
-</p>
-
 ---
 
 <p align="center">
