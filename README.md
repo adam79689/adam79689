@@ -43,7 +43,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adam79689&show_icons=true&theme=tokyonight&hide_border=true" alt="adam79689" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adam79689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="adam79689" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adam79689&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adam79689&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 ---
