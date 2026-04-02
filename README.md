@@ -43,7 +43,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adam79689&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="adam79689" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adam79689&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="adam79689" />
 </p>
 
 <p align="center">
