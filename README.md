@@ -12,10 +12,9 @@
 
 ### About Me
 
-- 🎓 Physics student at **ETH Zurich**
-- 🔭 Exploring the intersection of **physics and computation**
-- 🌱 Currently diving deeper into **scientific computing & simulations**
-- ⚡ Fun fact: The number **79689** is the zip code of a small town in Texas
+- Physics student at **ETH Zurich**
+- Exploring the intersection of **physics and computation**
+- Currently diving deeper into **scientific computing & simulations**
 
 ---
 
