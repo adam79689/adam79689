@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam</h1>
+<h1 align="center">Hi, I'm Adam</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Physics+Student+at+ETH+Z%C3%BCrich;Python+Developer;Always+learning+new+things" alt="Typing SVG" /></a>
@@ -43,7 +43,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adam79689&show_icons=true&theme=tokyonight&hide_border=true" alt="adam79689" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adam79689&show_icons=true&theme=tokyonight&hide_border=true" alt="adam79689" />
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam79689&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adam79689&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
